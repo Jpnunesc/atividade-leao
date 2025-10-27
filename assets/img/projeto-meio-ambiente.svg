@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-labelledby="title desc">
+  <title id="title">Projeto ambiental</title>
+  <desc id="desc">Árvores e natureza estilizadas</desc>
+  <rect width="320" height="200" fill="#d1fae5"/>
+  <circle cx="90" cy="110" r="50" fill="#155e75"/>
+  <circle cx="170" cy="90" r="40" fill="#0f172a" opacity="0.8"/>
+  <circle cx="240" cy="120" r="45" fill="#f43f5e" opacity="0.6"/>
+  <rect x="80" y="150" width="20" height="40" fill="#334155"/>
+  <rect x="160" y="140" width="16" height="50" fill="#334155"/>
+  <rect x="232" y="150" width="18" height="40" fill="#334155"/>
+</svg>

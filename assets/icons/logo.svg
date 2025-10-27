@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40" role="img" aria-labelledby="title desc">
+  <title id="title">Rede Solidária Brasil</title>
+  <desc id="desc">Logotipo simples com ícone de coração solidário</desc>
+  <rect width="140" height="40" rx="8" fill="#155e75"/>
+  <g fill="#f8fafc" font-family="'Inter', Arial, sans-serif" font-size="16" font-weight="600">
+    <text x="48" y="25">Rede Solidária</text>
+  </g>
+  <path d="M20 12c-2.8 0-5 2.2-5 5 0 5 7 10 7 10s7-5 7-10c0-2.8-2.2-5-5-5-1.6 0-3.1.8-4 2-.9-1.2-2.4-2-4-2z" fill="#f43f5e"/>
+</svg>

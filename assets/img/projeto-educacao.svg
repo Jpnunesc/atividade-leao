@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-labelledby="title desc">
+  <title id="title">Projeto de educação</title>
+  <desc id="desc">Gráfico representando educação e livros</desc>
+  <rect width="320" height="200" fill="#e2e8f0"/>
+  <rect x="40" y="40" width="80" height="120" rx="12" fill="#155e75"/>
+  <rect x="140" y="60" width="60" height="100" rx="10" fill="#f43f5e"/>
+  <rect x="220" y="80" width="60" height="80" rx="8" fill="#0f172a"/>
+  <text x="50" y="120" font-family="'Inter', Arial, sans-serif" font-size="24" fill="#f8fafc">ABC</text>
+</svg>

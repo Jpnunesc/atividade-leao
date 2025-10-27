@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-labelledby="title desc">
+  <title id="title">Projeto de saúde</title>
+  <desc id="desc">Símbolos de saúde e cuidado comunitário</desc>
+  <rect width="320" height="200" fill="#fee2e2"/>
+  <circle cx="110" cy="110" r="50" fill="#155e75"/>
+  <circle cx="200" cy="90" r="40" fill="#f43f5e"/>
+  <rect x="208" y="120" width="60" height="50" rx="12" fill="#0f172a"/>
+  <path d="M110 90h-12v16H82v12h16v16h12v-16h16v-12h-16z" fill="#f8fafc"/>
+</svg>
