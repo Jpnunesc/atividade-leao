@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="title desc">
+  <title id="title">Voluntários colaborando</title>
+  <desc id="desc">Ilustração abstrata de pessoas colaborando em um projeto social</desc>
+  <rect width="480" height="320" fill="#f8fafc"/>
+  <circle cx="120" cy="160" r="70" fill="#155e75" opacity="0.8"/>
+  <circle cx="240" cy="120" r="60" fill="#f43f5e" opacity="0.7"/>
+  <circle cx="340" cy="200" r="80" fill="#94a3b8" opacity="0.8"/>
+  <path d="M80 260c60-40 120-40 180 0s120 40 180 0v40H80z" fill="#155e75" opacity="0.6"/>
+</svg>
